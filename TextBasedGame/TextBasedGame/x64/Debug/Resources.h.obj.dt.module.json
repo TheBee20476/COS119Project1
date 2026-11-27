@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TextBasedGame\\x64\\Debug\\Resources.obj",
+            "outputs": [
+                "TextBasedGame\\x64\\Debug\\Resources.h.obj.dt.module.json",
+                "TextBasedGame\\x64\\Debug\\Resources.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
